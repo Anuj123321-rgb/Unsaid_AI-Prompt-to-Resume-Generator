@@ -1,0 +1,5 @@
+{
+  "name": "AI Prompt-to-Resume Generator",
+  "description": "An AI-powered application that converts a single text prompt describing a candidate's details into a recruiter-ready, ATS-compliant resume. It automatically generates a professional summary and suggests relevant keywords.",
+  "requestFramePermissions": []
+}
